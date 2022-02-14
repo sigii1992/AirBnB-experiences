@@ -8,7 +8,13 @@ function App() {
     <div>
       <NavBar />
       <Hero />
-      <Card />
+      <Card 
+        img="girl.jpeg"
+        rating="4.95"
+        reviewCount={36}
+        title="Learn photography with amazing Sarah!"
+        price={83}
+      />
     </div>
   );
 }
