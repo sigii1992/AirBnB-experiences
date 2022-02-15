@@ -43,6 +43,18 @@ h1 {
   width: 175px;
   font-size: 15px;
   font-family: 'Poppins', sans-serif;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.cards-list {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 40px;
+  overflow-x: auto;
+  justify-content: space-evenly;
+  padding: 100px 100px;
 }
 
 .card-photo {
@@ -63,3 +75,8 @@ h1 {
 .review-count {
   color: #696969;
 } 
+
+.card-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

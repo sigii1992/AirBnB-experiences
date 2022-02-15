@@ -19,7 +19,9 @@ function App() {
     <div>
       <NavBar />
       <Hero />
-      {cards}
+      <section className="cards-list">
+        {cards}
+      </section>
     </div>
   );
 }
