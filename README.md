@@ -9,7 +9,7 @@ It is built in order to learn React basics:
 - I am using .map() and props on Card components to pass data down to custom components and have React to display the array that has been mapped.
 - Styling (using CSS classes)
 
-## Screeshot
+## Screenshot
 
 ![airbnb](https://user-images.githubusercontent.com/81166702/154073028-368e1767-0828-4024-8da7-7afef777181c.png)
 
