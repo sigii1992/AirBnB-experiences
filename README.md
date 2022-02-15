@@ -1,6 +1,6 @@
 # AirBnB-experiences
 
-This is a simple data-driven web site with a list of different experiences. 
+This is a simple static data-driven web site with a list of different experiences. 
 It is built in order to learn React basics:
 
 - JSX
