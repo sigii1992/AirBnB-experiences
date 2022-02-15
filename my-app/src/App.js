@@ -12,6 +12,8 @@ function App() {
     reviewCount={card.stats.reviewCount}
     title={card.title}
     price={card.price}
+    openSpots={card.openSpots}
+    location={card.location}
     />
   })
 
